@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #1f806d;
+  background-color: #00CC6A;
   font-family: 'Courier New', Courier, monospace, sans-serif;
 }
 .main {
@@ -13,7 +13,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
-  border: 5px dashed #bdce29;
+  border: 5px solid yellow;
   box-shadow: 20px 30px 20px 0px rgba(0, 0, 0, 0.308);
 }
 .textview {
@@ -32,7 +32,7 @@ body {
   font-size: 25px;
   margin: 2px;
   cursor: pointer;
-  background-color: #bdce29;
+  background-color: yellow;
   border: 1px solid #fff;
   border-radius: 10px;
   color: #1f806d;
